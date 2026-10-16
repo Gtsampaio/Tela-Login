@@ -31,6 +31,10 @@ O projeto foi desenvolvido com finalidade acadêmica e de aprendizado, visando p
 
 Durante o desenvolvimento, foram praticados conceitos de estrutura HTML, formulários, campos de entrada, seletores CSS, cores, espaçamentos e organização visual de elementos.
 
+## Referência e Créditos
+
+Projeto desenvolvido para fins educacionais, com base no tutorial [Projeto Tela de Login com HTML e CSS](https://www.youtube.com/watch?v=pXAGoP2G2vE), disponível no YouTube. O código foi acompanhado e reproduzido com o objetivo de praticar os conceitos de HTML e CSS apresentados.
+
 ## Observações
 
 Esta é uma interface demonstrativa criada exclusivamente para fins de aprendizado. Os campos não possuem validação, autenticação ou qualquer funcionalidade de acesso a uma conta.
